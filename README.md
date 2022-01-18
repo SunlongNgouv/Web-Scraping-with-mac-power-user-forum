@@ -2,7 +2,7 @@
 
 ## Introduction
 [mac power user](https://talk.macpowerusers.com) is an online forum hosted by *Stephen Hackett* and *David Sparks* to offer talks about new released features and feedbacks of mac products. 
-The forum also serves as a chatroom where mac users can share their experiences or find helps from direct people having come across the same issues. 
+The forum also serves as a chatroom where mac users can share their experiences or find helps from community who had the same issues. 
 
 The forum was classified into 10 categores: 
 1. Announcements and Help
